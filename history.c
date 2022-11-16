@@ -2,7 +2,7 @@
 
 /**
  * *add_nodeint - To add node in the beginning
- * @head: Indicate the pointer of the history list.
+ * @head: Indicate the pointer of the history list
  * @str: Indicate the string received.
  *
  * Return: On success 1
