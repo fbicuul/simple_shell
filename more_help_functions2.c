@@ -3,7 +3,7 @@
 /**
  * new_help_alias - To help builtin command alias
  * @vars: Indicate if command matches a builtin name, text file is sent to stdout
- * Return: 0 if sucess
+ * Return: 0 if success
  */
 void new_help_alias(vars_t *vars)
 
