@@ -1,1 +1,1 @@
-Starting Up Simple Shell Collab Project
+A Simple Shell Collab Project
