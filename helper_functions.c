@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts_error - To print a string to sdandart error
+ * _puts_error - To print a string to sdandard error
  * @str: Indicate string to print.
  * Return: void
  */
