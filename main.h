@@ -14,7 +14,7 @@
 #include <fcntl.h>
 
 /**
- * struct history - An structure for each command readed
+ * struct history - A structure for each command readed
  * @str: Indicate string
  * @counter: Indicate number of imputs
  * @next: Indicate next element
