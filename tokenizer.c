@@ -3,7 +3,7 @@
 /**
  * tokenizer - To tokenize a buffer with a delimiter
  * @buffer: Indicate buffer to tokenize
- * @delimiter: Indicate delimiter to tokenize along
+ * @delimiter: Indicate delimiter to tokenize along.
  *
  * Return: pointer to an array of pointers to the tokens
  */
