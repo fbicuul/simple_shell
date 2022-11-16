@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * new_cd - To change the current working directory .
+ * new_cd - To change the current working directory
  * if no parameter is passed it will change directory to HOME.
  * @vars: Indicate a string representing the input from the user.
  */
