@@ -2,7 +2,7 @@
 
 /***** RETURNS A POINTER TO A NEW STRING ******/
 /**
- * _strdup - To return pointer to new mem alloc space which contains copy
+ * _strdup - To return pointer to new mem alloc space which contains copy.
  * @strtodup: Indicate string to be duplicated
  * Return: a pointer to the new duplicated string
  */
