@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * check_for_builtins - To check if the command is a builtin
+ * check_for_builtins - To check if the command is builtin
  * @vars: Indicate variables
  * Return: pointer to the function or NULL
  */
