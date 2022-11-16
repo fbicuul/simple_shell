@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * check_if_match - To check if a character matches any in a string
+ * check_if_match - To check if a character matches anyone in a string
  * @c: Indicate character to check
  * @str: Indicate string to check
  *
