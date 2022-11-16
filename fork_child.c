@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * fork_child - To create a child in  order to execute another program.
+ * fork_child - To create a child in order to execute another program.
  * @vars: Indicate a structure cointaining a array of pointers and a string.
  */
 void fork_child(vars_t vars)
