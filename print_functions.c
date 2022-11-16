@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** PRINT WITOUTH USING PRINF AND ADDING NEWLINE AS NEEDED **/
+/** PRINT WITHOUT USING PRINF AND ADDING NEWLINE AS NEEDED **/
 /**
  * print_str - To print a string character by character.
  * @str: Indicate string to be printed. If the string is NULL it will print (null)
