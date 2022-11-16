@@ -5,7 +5,7 @@
  * @key: Indicate variable name
  * @value: Indicate variable value
  *
- * Return: pointer to the new string;
+ * Return: pointer to the new string
  */
 
 char *add_value(char *key, char *value)
