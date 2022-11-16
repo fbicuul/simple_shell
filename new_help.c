@@ -3,7 +3,7 @@
 /**
  * new_help - To help builtin command
  * @vars: if command matches a builtin name, text file is sent to stdout
- * Return: 0 if sucess
+ * Return: 0 if success
  */
 
 void new_help(vars_t *vars)
