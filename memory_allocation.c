@@ -3,7 +3,7 @@
 /**
  * _realloc - To reallocate a pointer to double the space
  * @ptr: Indicate pointer to the old array
- * @size: Indicate pointer to number of elements in the old array
+ * @size: Indicate pointer to the number of elements in the old array
  *
  * Return: pointer to the new array
  */
