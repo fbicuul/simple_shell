@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_cd_1 - To print error when cd argument in invalid
+ * print_cd_1 - To print error when cd argument is invalid
  *              i.e. cd -asd22
  * @vars: Indicate vars parameter to include
  * Return: Always return void and print a messaje as shown below.
