@@ -86,7 +86,7 @@ void _env(vars_t *vars)
 }
 
 /*
- * new_setenv - To create a new environment variable, or edit an existing variable
+ * new_setenv - To create a new env variable, or edit an existing variable
  * @vars: Indicate pointer to struct of variables
  *
  * Return: void
