@@ -153,7 +153,7 @@ void new_help_unsetenv(vars_t *vars)
 }
 /**
  * new_help_setenv - To help builtin command setenv
- * @vars: Indicate if command matches a builtin name, text file is sent to stdout
+ * @vars: Indicate if command matches builtin name, text file sent to stdout
  * Return: 0 if sucess
  */
 void new_help_setenv(vars_t *vars)
