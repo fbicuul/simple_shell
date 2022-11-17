@@ -2,7 +2,7 @@
 /**
  * new_help_history - To help builtin command history
  * @vars: Indicate if command matches a builtin name, text file is sent to stdout
- * Return: 0 if success
+ * Return: 0 if sucess
  */
 void new_help_history(vars_t *vars)
 {
