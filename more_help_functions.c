@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * new_help_history - To help builtin command history
- * @vars: Indicate if command matches a builtin name, text file is sent to stdout
+ * @vars: Indicate if command matches builtin name, text file sent to stdout
  * Return: 0 if sucess
  */
 void new_help_history(vars_t *vars)
@@ -39,7 +39,7 @@ void new_help_history(vars_t *vars)
 }
 /**
  * new_help_unalias - To help builtin command unalias
- * @vars: Indicate if command matches a builtin name, text file is sent to stdout
+ * @vars: Indicate if command matches builtin name, text file sent to stdout
  * Return: 0 if sucess
  */
 void new_help_unalias(vars_t *vars)
@@ -77,7 +77,7 @@ void new_help_unalias(vars_t *vars)
 }
 /**
  * new_help_unset - To help builtin command unset
- * @vars: Indicate if command matches a builtin name, text file is sent to stdout
+ * @vars: Indicate if command matches builtin name, text file sent to stdout
  * Return: 0 if sucess
  */
 void new_help_unset(vars_t *vars)
@@ -115,7 +115,7 @@ void new_help_unset(vars_t *vars)
 }
 /**
  * new_help_unsetenv - To help builtin command unsetenv
- * @vars: Indicate if command matches a builtin name, text file is sent to stdout
+ * @vars: Indicate if command matches builtin name, text file sent to stdout
  * Return: 0 if sucess
  */
 void new_help_unsetenv(vars_t *vars)
