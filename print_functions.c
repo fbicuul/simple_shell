@@ -3,8 +3,8 @@
 /** PRINT WITHOUT USING PRINF AND ADDING NEWLINE AS NEEDED **/
 /**
  * print_str - To print a string character by character.
- * @str: Indicate string to be printed. If the string is NULL it will print (null)
- * @new_line: Indicate if integer is 0 a new line will be printed. Otherwise a new line
+ * @str: Indicate string to print If the string is NULL it will print (null)
+ * @new_line: Indicate if integer is 0 new line is printed. Otherwise new line
  * will not be printed.
  */
 void print_str(char *str, int new_line)
